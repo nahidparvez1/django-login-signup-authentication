@@ -1,0 +1,26 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on localhost:8000
+From: webmaster@localhost
+To: naahidparvez@gmail.com
+Date: Wed, 28 Sep 2022 06:19:58 -0000
+Message-ID: 
+ <166434599829.52090.1328218561876819369@192.0.168.192.in-addr.arpa>
+
+
+You're receiving this email because you requested a password reset for your user account at localhost:8000.
+
+Please go to the following page and choose a new password:
+
+http://localhost:8000/accounts/reset/MQ/bcg6xa-a9240f6a3f2d82a12d01ab3ae9e6977d/
+
+Your username, in case you’ve forgotten: nahid
+
+Thanks for using our site!
+
+The localhost:8000 team
+
+
+
+-------------------------------------------------------------------------------
